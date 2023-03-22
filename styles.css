@@ -4,7 +4,7 @@
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("img/bground.jpeg");
+    background-image: url("bground.jpeg");
 }
 
 .gradientbg{
