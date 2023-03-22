@@ -1,0 +1,21 @@
+.bgreference   {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("img/bground.jpeg");
+}
+
+.gradientbg{
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(0deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.3) 100%);
+    position: absolute;
+}
+
+.section2{
+    width: 100vw;
+    height: 100vh;
+}
